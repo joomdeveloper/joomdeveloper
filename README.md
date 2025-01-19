@@ -40,6 +40,7 @@ Me chamo João Marcos, sou natural de Jaguarari BA e apaixonado por tecnologia. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -56,6 +57,7 @@ Me chamo João Marcos, sou natural de Jaguarari BA e apaixonado por tecnologia. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
