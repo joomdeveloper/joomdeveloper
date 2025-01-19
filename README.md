@@ -101,6 +101,6 @@ Me chamo João Marcos, sou natural de Jaguarari BA e apaixonado por tecnologia. 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devjoom&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=joomdeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
