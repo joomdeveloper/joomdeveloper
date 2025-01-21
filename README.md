@@ -2,107 +2,59 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Marcos, sou natural de Jaguarari BA e apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIVERSIDADE ESTÁCIO DE SÁ - UNESA.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+# 📝sobre mim
+Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonado por tecnologia. Atualmente, estou cursando <em>Análise e Desenvolvimento de Sistemas na UNIVERSIDADE ESTÁCIO DE SÁ - UNESA</em>.
 
 
-<br/>
-<br/>
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Linguagens e Tecnologias
 
-### 📊 Estatísticas
+<table align="center"><tr><td valign="top" width="30%">
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joomdeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,graphql&theme=dark&perline=3" />
 </p>
+
+</td><td valign="top" width="30%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,jest&theme=dark&perline=3" />
+</p>
+
+</td><td valign="top" width="20%">
+
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,vscode&theme=dark&perline=2" />
+</p>
+
+</td></tr></table>
+<br/><br/>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joomdeveloper&theme=tokyonight" />
+</p>
+<br/><br/>
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/joomdeveloper/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=site style="margin-bottom: 5px;" />
+</a>   
+</div>  
+<br/><br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joomdeveloper&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joomdeveloper&theme=tokyonight)
+
