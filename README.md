@@ -43,7 +43,7 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 </p>
 <br/><br/>
 
-# 📫 Connect With Me
+# 📫 Conecte-se comigo
 
 <div align="center">
 <a href="https://www.linkedin.com/in/joomdeveloper/" target="_blank">
