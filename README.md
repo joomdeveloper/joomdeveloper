@@ -50,8 +50,9 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=site style="margin-bottom: 5px;" />
-</a>   
+<img src="https://img.shields.io/badge/instagram-b200ed.svg?&style=for-the-badge&logo=&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+</a>
+   
 </div>  
 <br/><br/>
 
