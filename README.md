@@ -1,5 +1,4 @@
-# 👤💻 João M
-
+# <img aligin="center" src=".github\capa.png">
 **`Desenvolvedor FullStack`**
 
 # 📝sobre mim
