@@ -23,7 +23,7 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,python,go&theme=dark&perline=3" />
 </p>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="30%">
 
 ### <div align="center"> Databases </div>
 
