@@ -20,7 +20,7 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,java,python,go&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,python,go&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="20%">
@@ -29,25 +29,6 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" />
-</p>
-
-</td><td valign="top" width="20%">
-
-
-### <div align="center"> Mobile </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,kotlin&theme=dark&perline=2" />
-</p>
-
-</td>
-<td valign="top" width="20%">
-
-
-### <div align="center"> Tools </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" />
 </p>
 
 </td></tr></table>
