@@ -33,7 +33,7 @@ Natural de Jaguarari BA e apaixonado por tecnologia. Atualmente, estou cursando 
 
 </td><td valign="top" width="30%">
 
-### <div align="center"> Databases </div>
+### <div align="center"> Tools </div>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" />
