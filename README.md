@@ -2,7 +2,7 @@
 **`Desenvolvedor FullStack`**
 
 # 📝sobre mim
-Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonado por tecnologia. Atualmente, estou cursando <em>Análise e Desenvolvimento de Sistemas na UNIVERSIDADE ESTÁCIO DE SÁ - UNESA</em>.
+Natural de Jaguarari BA e apaixonado por tecnologia. Atualmente, estou cursando <em>Análise e Desenvolvimento de Sistemas na UNIVERSIDADE ESTÁCIO DE SÁ - UNESA</em>.
 
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Linguagens e Tecnologias
@@ -20,7 +20,7 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,python,go&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,go&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="30%">
@@ -31,15 +31,8 @@ Me chamo  <strong>João Marcos</strong>, sou natural de Jaguarari BA e apaixonad
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" />
 </p>
 
-</td><td valign="top" width="30%">
-
-### <div align="center"> Mobile </div>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=2" />
-</p>
-
-</td></tr></table>
+</td>
+</table>
 <br/><br/>
 
 # 📊 GitHub Stats
